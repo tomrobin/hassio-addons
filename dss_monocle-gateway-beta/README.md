@@ -9,7 +9,7 @@
 
 [![Support my work on Paypal][paypal-shield]][paypal]
 
-This add-on allows you to run Monocle Gateway within Home Assistant
+This add-on allows xxx you to run Monocle Gateway within Home Assistant
 
 ## Features
 
